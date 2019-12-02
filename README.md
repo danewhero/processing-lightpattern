@@ -1,6 +1,3 @@
-# Executive Summary
-Download Processing + current library of light pattern sketches.
-
 # Download Processing
 To download Processing, run the following command:
 ```bash
